@@ -1,7 +1,8 @@
 # hello-world
-test repository
 
-Hi! This is a test with not much importance...
+Let's make things more interesting
+
+Hi! This is a test with very high importance...
 
 However, it can be useful to test git's main functions...
 
